@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Quan Ly Sinh Vien - Login");
+        System.out.println("Quan Ly Sinh Vien - Student Management");
     }
 }s
